@@ -1,0 +1,11 @@
+<html> 
+    <head> 
+        <title> Exercise  </title>
+    </head>
+    <body> 
+        <p> compute the value of x:</p>
+        <p>x=2<sup>3</sup> + 4 <sup>2</sup></p>
+        <p>Is x &gt; 10? </p>
+        <p>How much is &frac12; of x? </p>
+    </body>
+</html>
